@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170840423844",
+    "project_id": "renanbarbosa-68902",
+    "storage_bucket": "renanbarbosa-68902.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170840423844:android:c32d18bc6c4836125f1531",
+        "android_client_info": {
+          "package_name": "com.example.renanbarbosa_68902"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2fCasUcN5l5Qrz6kztX2NxiZoYHFPwzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
