@@ -1,5 +1,8 @@
 Renan Barbosa
 68902
+I have used Firebase as the database from which all the data was fetched.
+![WhatsApp Image 2024-04-22 at 16 57 12](https://github.com/Renandorset/68902project/assets/144677047/4d0e4051-ce57-4ff0-9e98-a058fc820de2)
+![WhatsApp Image 2024-04-22 at 16 57 12(1)](https://github.com/Renandorset/68902project/assets/144677047/9733fcc8-6c43-4b33-a225-492f384d984c)
 
 The beginning.
 
